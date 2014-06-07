@@ -1,0 +1,1 @@
+GeoIP = Npm.require('geoip-lite');

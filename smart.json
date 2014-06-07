@@ -1,0 +1,8 @@
+{
+  "name": "geoip",
+  "description": "A geoip package",
+  "homepage": "http://servicelocale.com",
+  "author": "Akshat Khatri",
+  "version": "0.1.0",
+  "git": "https://github.com/ServiceLocale/GeoIP.git"
+}
