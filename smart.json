@@ -1,8 +1,8 @@
 {
   "name": "geoip",
-  "description": "A geoip package",
+  "description": "A geoip package wrapping around the exising npm module",
   "homepage": "http://servicelocale.com",
   "author": "Akshat Khatri",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "git": "https://github.com/ServiceLocale/GeoIP.git"
 }
