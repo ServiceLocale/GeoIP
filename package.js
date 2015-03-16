@@ -5,7 +5,7 @@ Package.describe({
 });
 
 Npm.depends({
-	'geoip-lite': "1.1.3"
+	'geoip-lite': "1.1.6"
 });
 
 Package.on_use(function(api) {
