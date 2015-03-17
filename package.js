@@ -1,11 +1,12 @@
 Package.describe({
     summary: "GeoIP-lite Npm wrapper",
     name: "servicelocale:geoip",
-	version: "0.1.2"
+    version: "0.1.2",
+    git: "https://github.com/ServiceLocale/GeoIP"
 });
 
 Npm.depends({
-	'geoip-lite': "1.1.3"
+	'geoip-lite': "1.1.6"
 });
 
 Package.on_use(function(api) {
